@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personalidades/os exilados.md",
+                "file": "os exilados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d28d88ae0f7c474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personalidades/Rhott Ubbett.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personalidades/os exilados.md",
+                "file": "personalidades/Rhott Ubbett.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personalidades/os exilados.md",
+                "file": "personalidades/Rhott Ubbett.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personalidades/os exilados.md"
+                "file": "personalidades/Rhott Ubbett.md"
               }
             }
           }
@@ -148,8 +161,11 @@
   },
   "active": "0b49e37982f2097c",
   "lastOpenFiles": [
+    "os exilados.md",
+    "personalidades/Rhott Ubbett.md",
+    "personagens",
+    "personalidades/Untitled",
     "README.md",
-    "personalidades/os exilados.md",
     "personalidades"
   ]
 }
